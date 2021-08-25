@@ -5,7 +5,7 @@ namespace Miduh;
 class ImmuniData {
 
     /*  
-    @* @var String $prefix The folder of the JSON data
+    @* @var String $prefix The folder containing the JSON data
     */
     public $prefix = "https://raw.githubusercontent.com/immuni-app/immuni-dashboard-data/master/dati/";
     
